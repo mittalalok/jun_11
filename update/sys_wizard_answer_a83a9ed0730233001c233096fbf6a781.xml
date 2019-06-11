@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>tb1_chg</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>tb1_chg</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">42123aa5732133001c233096fbf6a7fd</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 06:45:03</sys_created_on>
+        <sys_id>a83a9ed0730233001c233096fbf6a781</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tb1_chg</sys_name>
+        <sys_package display_value="jun_11" source="sn_jun_11">d1e2121c738233001c233096fbf6a725</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jun_11">d1e2121c738233001c233096fbf6a725</sys_scope>
+        <sys_update_name>sys_wizard_answer_a83a9ed0730233001c233096fbf6a781</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 06:45:03</sys_updated_on>
+        <table/>
+        <target_url>sn_jun_11_tb1.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

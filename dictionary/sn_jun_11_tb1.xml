@@ -7,5 +7,6 @@
                 <element inactive_on_update="false" label="CH3" value="ch3"/>
             </choice>
         </element>
+        <element label="myField" max_length="40" name="myfield" type="string"/>
     </element>
 </database>
