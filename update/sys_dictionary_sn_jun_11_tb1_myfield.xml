@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="sn_jun_11_tb1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="myfield" table="sn_jun_11_tb1">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>myField</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,12 +22,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>myfield</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>sn_jun_11_tb1</name>
@@ -52,14 +47,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-11 06:14:29</sys_created_on>
-        <sys_id>939b3a98730233001c233096fbf6a7df</sys_id>
+        <sys_created_on>2019-06-11 09:11:04</sys_created_on>
+        <sys_id>939b3a98730233001c233096fbf6a7e8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_jun_11_tb1</sys_name>
+        <sys_name>myField</sys_name>
         <sys_package display_value="jun_11" source="sn_jun_11">d1e2121c738233001c233096fbf6a725</sys_package>
         <sys_policy/>
         <sys_scope display_value="jun_11">d1e2121c738233001c233096fbf6a725</sys_scope>
-        <sys_update_name>sys_dictionary_sn_jun_11_tb1_NULL</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_jun_11_tb1_myfield</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-06-11 09:11:04</sys_updated_on>
         <table_reference>false</table_reference>

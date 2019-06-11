@@ -10,13 +10,13 @@
             <name>sn_jun_11_tb1</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-11 06:15:27</sys_created_on>
+            <sys_created_on>2019-06-11 09:11:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6863d61c738233001c233096fbf6a70f</sys_id>
+            <sys_id>d39b3a98730233001c233096fbf6a7ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-11 06:15:27</sys_updated_on>
+            <sys_updated_on>2019-06-11 09:11:04</sys_updated_on>
             <value>ch1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,22 +29,41 @@
             <name>sn_jun_11_tb1</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-11 06:15:35</sys_created_on>
+            <sys_created_on>2019-06-11 09:11:04</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>eb63d61c738233001c233096fbf6a76a</sys_id>
+            <sys_id>179b3a98730233001c233096fbf6a7ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-11 06:15:35</sys_updated_on>
+            <sys_updated_on>2019-06-11 09:11:04</sys_updated_on>
             <value>ch2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mychoice</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CH3</label>
+            <language>en</language>
+            <name>sn_jun_11_tb1</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:11:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>579b3a98730233001c233096fbf6a7ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:11:04</sys_updated_on>
+            <value>ch3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>mychoice</element>
             <name>sn_jun_11_tb1</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-11 06:15:27</sys_created_on>
-            <sys_id>fa63961c738233001c233096fbf6a7b8</sys_id>
+            <sys_created_on>2019-06-11 09:11:04</sys_created_on>
+            <sys_id>5b9b3a98730233001c233096fbf6a7ef</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>mychoice</sys_name>
             <sys_package display_value="jun_11" source="sn_jun_11">d1e2121c738233001c233096fbf6a725</sys_package>
@@ -52,7 +71,7 @@
             <sys_scope display_value="jun_11">d1e2121c738233001c233096fbf6a725</sys_scope>
             <sys_update_name>sys_choice_sn_jun_11_tb1_mychoice</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-11 06:15:27</sys_updated_on>
+            <sys_updated_on>2019-06-11 09:11:04</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

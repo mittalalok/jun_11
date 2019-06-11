@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="tb1_chg" max_length="40" name="sn_jun_11_tb1" type="collection">
+    <element extends="task" label="tb1_bkp" max_length="40" name="sn_jun_11_tb1" type="collection">
         <element choice="1" label="myChoice" mandatory="true" max_length="10" name="mychoice" type="choice">
             <choice>
                 <element inactive_on_update="false" label="CH1" value="ch1"/>
@@ -7,6 +7,6 @@
                 <element inactive_on_update="false" label="CH3" value="ch3"/>
             </choice>
         </element>
-        <element label="myField" max_length="40" name="myfield" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="myField" max_length="40" name="myfield" type="string"/>
     </element>
 </database>
